@@ -3,7 +3,7 @@ Experimentation with arccosine kernels, with a softmax perceptron for classifica
 
 A distance matrix for the COIL-100 dataset.
 
-![image](kernel_coil_1_2.jpg)
+![image](kernel_dist_coil_1_2.jpg)
 
 and the corresponding ISOMAP embedding with 50 neighbors.
 
